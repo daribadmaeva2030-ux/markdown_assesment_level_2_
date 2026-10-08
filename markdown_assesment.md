@@ -13,8 +13,9 @@ _ _ _
 _ _ _
 ## How Our Ordering App Works
 Every order is added up by our ap. We use the `total` variable to keep track of the price:
-``` let total = 0;
-total = total + 8;
+``` 
+let total = 0;
+ total = total + 8;
 if(total > 10){
     console.log("You get a free cookie!");
 }else{
@@ -22,4 +23,14 @@ if(total > 10){
 }
 ```
 _ _ _ 
-##
+> ## What Customers Are saying
+>"Best chopped cheese in East Harlem, and the **free coockies** deal is *genius*!"
+_ _ _
+## Find Us Online
+Follow our daily location on [Instagram](https://www.google.com/?safe=active&ssui=on&zx=1791480700931),or read our reviews on [Yelp](https://www.google.com/?safe=active&ssui=on&zx=1791480700931).
+
+Want to build an app like ours? Start learning here:
+- [freeeCodeCamp](https://www.google.com/?safe=active&ssui=on&zx=1791480700931)
+- [MND Web Docs](https://www.google.com/?safe=active&ssui=on&zx=1791480700931)
+ _ _ _
+ `git push origin main` - the command we run every time we add a new item to the menu!  
